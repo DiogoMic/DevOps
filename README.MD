@@ -1,0 +1,1 @@
+Setting up a webiste in EC2 using IAC method
