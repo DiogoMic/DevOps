@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "webserver" {
-  ami           = "ami-0c94855ba95c71c99" // Amazon Linux 2 AMI ID
+  ami           = " " // Insert an Amazon Linux 2 AMI ID 
   instance_type = "t2.micro"
   key_name      = "your_key_pair_name" // Replace with your key pair name
 
